@@ -3,8 +3,9 @@ module hello-world
 go 1.18
 
 require (
+	github.com/gin-gonic/gin v1.7.7
 	github.com/josegonzalez/cli-skeleton v0.4.0
-	github.com/josegonzalez/service-skeleton v0.0.0-20220402205337-4edd69cfe03a
+	github.com/josegonzalez/service-skeleton v0.1.0
 	github.com/mitchellh/cli v1.1.2
 	github.com/posener/complete v1.2.3
 	github.com/rs/zerolog v1.26.1
@@ -22,7 +23,6 @@ require (
 	github.com/gin-contrib/logger v0.2.2 // indirect
 	github.com/gin-contrib/requestid v0.0.3 // indirect
 	github.com/gin-contrib/sse v0.1.0 // indirect
-	github.com/gin-gonic/gin v1.7.7 // indirect
 	github.com/go-playground/locales v0.14.0 // indirect
 	github.com/go-playground/universal-translator v0.18.0 // indirect
 	github.com/go-playground/validator/v10 v10.10.1 // indirect
