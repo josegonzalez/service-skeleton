@@ -6,6 +6,7 @@ import (
 	"strconv"
 	"time"
 
+	"github.com/gin-contrib/location"
 	"github.com/gin-contrib/logger"
 	"github.com/gin-contrib/requestid"
 	"github.com/gin-gonic/gin"
@@ -38,6 +39,8 @@ func GetServer() *gin.Engine {
 				return LoggerWithContext(c)
 			}),
 		),
+		gin.Recovery(),
+		location.Default(),
 		requestid.New(),
 		ContextRequestidMiddleware(),
 	}
@@ -46,18 +49,15 @@ func GetServer() *gin.Engine {
 	return r
 }
 
-func StartServer(r *gin.Engine) {
+func StartServer(r *gin.Engine) error {
 	port, err := strconv.Atoi(getenv("PORT", "5000"))
 	if err != nil {
-		log.Error().Err(err).Msg("Overriding PORT with default port 5000")
-		port = 5000
+		return err
 	}
 
 	log.Debug().
 		Int("port", port).
 		Msg("listening")
 
-	if err := r.Run(":" + strconv.Itoa(port)); err != nil {
-		log.Fatal().Err(err).Send()
-	}
+	return r.Run(":" + strconv.Itoa(port))
 }
