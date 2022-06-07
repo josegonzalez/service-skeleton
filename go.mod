@@ -6,7 +6,7 @@ require (
 	github.com/gin-contrib/location v0.0.2
 	github.com/gin-contrib/logger v0.2.2
 	github.com/gin-contrib/requestid v0.0.4
-	github.com/gin-gonic/gin v1.8.0
+	github.com/gin-gonic/gin v1.8.1
 	github.com/rs/zerolog v1.26.1
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
 )
