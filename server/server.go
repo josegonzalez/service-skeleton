@@ -1,10 +1,8 @@
 package server
 
 import (
-	"io"
 	"os"
 	"strconv"
-	"time"
 
 	"github.com/gin-contrib/location"
 	"github.com/gin-contrib/logger"
@@ -35,8 +33,8 @@ func GetServer() *gin.Engine {
 
 	middlewares := []gin.HandlerFunc{
 		logger.SetLogger(
-			logger.WithLogger(func(c *gin.Context, out io.Writer, latency time.Duration) zerolog.Logger {
-				return LoggerWithContext(c)
+			logger.WithLogger(func(c *gin.Context, l zerolog.Logger) zerolog.Logger {
+				return LoggerWithContext(c, l)
 			}),
 		),
 		gin.Recovery(),
