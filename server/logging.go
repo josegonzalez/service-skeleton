@@ -29,17 +29,25 @@ func InitializeLogging() {
 	}
 }
 
-func WithContext(ctx context.Context) zerolog.Context {
-	ztx := log.With()
+func injectRequestID(ztx zerolog.Context, ctx context.Context) zerolog.Context {
 	if id, ok := ctx.Value("request_id").(string); ok {
 		ztx = ztx.Str("request_id", id)
 	}
 
 	return ztx
+
 }
 
-func LoggerWithContext(ctx context.Context) zerolog.Logger {
-	return WithContext(ctx).Logger()
+func WithContext(ctx context.Context) zerolog.Context {
+	return injectRequestID(log.With(), ctx)
+}
+
+func NewLoggerWithContext(ctx context.Context) zerolog.Logger {
+	return injectRequestID(log.With(), ctx).Logger()
+}
+
+func LoggerWithContext(ctx context.Context, l zerolog.Logger) zerolog.Logger {
+	return injectRequestID(l.With(), ctx).Logger()
 }
 
 func DefaultLogger() zerolog.Logger {
