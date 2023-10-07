@@ -9,3 +9,7 @@ updates:
     directory: "/examples/hello-world"
     schedule:
       interval: "daily"
+  - package-ecosystem: github-actions
+    directory: "/"
+    schedule:
+      interval: daily
