@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/gin-gonic/gin v1.9.1
-	github.com/josegonzalez/cli-skeleton v0.14.0
+	github.com/josegonzalez/cli-skeleton v0.15.0
 	github.com/josegonzalez/service-skeleton v0.1.0
 	github.com/mitchellh/cli v1.1.5
 	github.com/posener/complete v1.2.3
