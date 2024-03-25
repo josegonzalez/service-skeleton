@@ -18,8 +18,8 @@ github.com/gabriel-vasile/mimetype v1.4.3 h1:in2uUcidCuFcDKtdcBxlR0rJ1+fsokWf+uq
 github.com/gabriel-vasile/mimetype v1.4.3/go.mod h1:d8uq/6HKRL6CGdk+aubisF/M5GcPfT7nKyLpA0lbSSk=
 github.com/gin-contrib/location v1.0.0 h1:j/7yjXfMl3Q9wGFhaCeqgss9ozz1euOSVc4T27PfT4E=
 github.com/gin-contrib/location v1.0.0/go.mod h1:J5T7bQQOj/uhs37QL+zER84+U3+xj2ofrjt1VZ3FGR0=
-github.com/gin-contrib/logger v1.1.0 h1:dP/HkfjUy9nFcyBolgXcStpgUrYToAfSs/GsVIe0l5Y=
-github.com/gin-contrib/logger v1.1.0/go.mod h1:onbSPF8qkdvedG2DDUPSTmq1HiQH5yGa7BXq+m3yQ3A=
+github.com/gin-contrib/logger v1.1.1 h1:78Qzfpx3JvpnNX/6bErifIcnFqwbVKl2gS5WGExFPOs=
+github.com/gin-contrib/logger v1.1.1/go.mod h1:Cmqqcc6Yce4+r776VET1AcU4ydAR6sMKuDtBKLje20Y=
 github.com/gin-contrib/requestid v1.0.0 h1:Ms19AcktabHdXDiMDvsR+PrkBEOtURWliX89n9b0VHY=
 github.com/gin-contrib/requestid v1.0.0/go.mod h1:311ycyAmroVeV6hDO1Wojooq/jmWfrgqU33M1ncP/TI=
 github.com/gin-contrib/sse v0.1.0 h1:Y/yl/+YNO8GZSjAhjMsSuLt29uWRFHdHYUb5lYOV9qE=
