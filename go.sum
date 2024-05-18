@@ -17,8 +17,8 @@ github.com/gin-contrib/location v1.0.1 h1:jvRTI1OnbssvN5gfhZfJoCcfRl5TryBh6hVWSi
 github.com/gin-contrib/location v1.0.1/go.mod h1:ekHwW1ahklUMaOv7riu6Wyyn0bCkxQdWf3EQWwVIcs0=
 github.com/gin-contrib/logger v1.1.1 h1:78Qzfpx3JvpnNX/6bErifIcnFqwbVKl2gS5WGExFPOs=
 github.com/gin-contrib/logger v1.1.1/go.mod h1:Cmqqcc6Yce4+r776VET1AcU4ydAR6sMKuDtBKLje20Y=
-github.com/gin-contrib/requestid v1.0.0 h1:Ms19AcktabHdXDiMDvsR+PrkBEOtURWliX89n9b0VHY=
-github.com/gin-contrib/requestid v1.0.0/go.mod h1:311ycyAmroVeV6hDO1Wojooq/jmWfrgqU33M1ncP/TI=
+github.com/gin-contrib/requestid v1.0.2 h1:MRJqVwmpHAbkkF3ENgtDWU41l5ICmmVy01q2ZDYI1BE=
+github.com/gin-contrib/requestid v1.0.2/go.mod h1:GZWwfwmwZKfuxjnByRCrf+ugr65OW+425m5HiryD37s=
 github.com/gin-contrib/sse v0.1.0 h1:Y/yl/+YNO8GZSjAhjMsSuLt29uWRFHdHYUb5lYOV9qE=
 github.com/gin-contrib/sse v0.1.0/go.mod h1:RHrZQHXnP2xjPF+u1gW/2HnVO7nvIa9PG3Gm+fLHvGI=
 github.com/gin-gonic/gin v1.10.0 h1:nTuyha1TYqgedzytsKYqna+DfLos46nTv2ygFy86HFU=
