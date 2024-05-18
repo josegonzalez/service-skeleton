@@ -15,8 +15,8 @@ github.com/gabriel-vasile/mimetype v1.4.3 h1:in2uUcidCuFcDKtdcBxlR0rJ1+fsokWf+uq
 github.com/gabriel-vasile/mimetype v1.4.3/go.mod h1:d8uq/6HKRL6CGdk+aubisF/M5GcPfT7nKyLpA0lbSSk=
 github.com/gin-contrib/location v1.0.1 h1:jvRTI1OnbssvN5gfhZfJoCcfRl5TryBh6hVWSifJfYw=
 github.com/gin-contrib/location v1.0.1/go.mod h1:ekHwW1ahklUMaOv7riu6Wyyn0bCkxQdWf3EQWwVIcs0=
-github.com/gin-contrib/logger v1.1.1 h1:78Qzfpx3JvpnNX/6bErifIcnFqwbVKl2gS5WGExFPOs=
-github.com/gin-contrib/logger v1.1.1/go.mod h1:Cmqqcc6Yce4+r776VET1AcU4ydAR6sMKuDtBKLje20Y=
+github.com/gin-contrib/logger v1.1.2 h1:+y8VHqn5zAsAFnW6y/6GF93eXaCPFv/XPdqUCFeBMRg=
+github.com/gin-contrib/logger v1.1.2/go.mod h1:IXV9/7UPRIPJpAZ0DUOAZ/NLaCVzOzqqpQPQEF7u6fw=
 github.com/gin-contrib/requestid v1.0.2 h1:MRJqVwmpHAbkkF3ENgtDWU41l5ICmmVy01q2ZDYI1BE=
 github.com/gin-contrib/requestid v1.0.2/go.mod h1:GZWwfwmwZKfuxjnByRCrf+ugr65OW+425m5HiryD37s=
 github.com/gin-contrib/sse v0.1.0 h1:Y/yl/+YNO8GZSjAhjMsSuLt29uWRFHdHYUb5lYOV9qE=
