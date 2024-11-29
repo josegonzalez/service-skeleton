@@ -16,8 +16,8 @@ github.com/gabriel-vasile/mimetype v1.4.7 h1:SKFKl7kD0RiPdbht0s7hFtjl489WcQ1VyPW
 github.com/gabriel-vasile/mimetype v1.4.7/go.mod h1:GDlAgAyIRT27BhFl53XNAFtfjzOkLaF35JdEG0P7LtU=
 github.com/gin-contrib/location v1.0.1 h1:jvRTI1OnbssvN5gfhZfJoCcfRl5TryBh6hVWSifJfYw=
 github.com/gin-contrib/location v1.0.1/go.mod h1:ekHwW1ahklUMaOv7riu6Wyyn0bCkxQdWf3EQWwVIcs0=
-github.com/gin-contrib/logger v1.2.1 h1:Y1z7Ym6NQcyS465PC+WOKrV8k6y+iwdEIijbl4Js8wo=
-github.com/gin-contrib/logger v1.2.1/go.mod h1:pK6bJkWz85bSLN7JvjO63p6gPD1T9gb+n/Hd43Sotgc=
+github.com/gin-contrib/logger v1.2.2 h1:4vegTopx7ATxY4BB3yXr/jwMbFFQI2GO8/t6K/CPR/8=
+github.com/gin-contrib/logger v1.2.2/go.mod h1:PlPi0YnOQZ0mb8slpXbn9sivtpkp5rtfGHWgzPUnRWM=
 github.com/gin-contrib/requestid v1.0.3 h1:NB6SF0Te4Ikn8mW2K4tegpm2WGuB3bWj4wnWaM4oSAA=
 github.com/gin-contrib/requestid v1.0.3/go.mod h1:VQd5IntEAH79uEt8FRoGpqiDWTKqjbRbSnmpNHXSsKs=
 github.com/gin-contrib/sse v0.1.0 h1:Y/yl/+YNO8GZSjAhjMsSuLt29uWRFHdHYUb5lYOV9qE=
@@ -81,8 +81,8 @@ github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/
 github.com/stretchr/testify v1.7.1/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
 github.com/stretchr/testify v1.8.0/go.mod h1:yNjHg4UonilssWZ8iaSj1OCr/vHnekPRkoO+kdMU+MU=
 github.com/stretchr/testify v1.8.1/go.mod h1:w2LPCIKwWwSfY2zedu0+kehJoqGctiVI29o6fzry7u4=
-github.com/stretchr/testify v1.9.0 h1:HtqpIVDClZ4nwg75+f6Lvsy/wHu+3BoSGCbBAcpTsTg=
-github.com/stretchr/testify v1.9.0/go.mod h1:r2ic/lqez/lEtzL7wO/rwa5dbSLXVDPFyf8C91i36aY=
+github.com/stretchr/testify v1.10.0 h1:Xv5erBjTwe/5IxqUQTdXv5kgmIvbHo3QQyRwhJsOfJA=
+github.com/stretchr/testify v1.10.0/go.mod h1:r2ic/lqez/lEtzL7wO/rwa5dbSLXVDPFyf8C91i36aY=
 github.com/twitchyliquid64/golang-asm v0.15.1 h1:SU5vSMR7hnwNxj24w34ZyCi/FmDZTkS4MhqMhdFk5YI=
 github.com/twitchyliquid64/golang-asm v0.15.1/go.mod h1:a1lVb/DtPvCB8fslRZhAngC2+aY1QWCk3Cedj/Gdt08=
 github.com/ugorji/go/codec v1.2.12 h1:9LC83zGrHhuUA9l16C9AHXAqEV/2wBQ4nkvumAE65EE=
