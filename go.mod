@@ -3,7 +3,7 @@ module github.com/josegonzalez/service-skeleton
 go 1.23.0
 
 require (
-	github.com/gin-contrib/location v1.0.1
+	github.com/gin-contrib/location v1.0.2
 	github.com/gin-contrib/logger v1.2.2
 	github.com/gin-contrib/requestid v1.0.4
 	github.com/gin-gonic/gin v1.10.0
