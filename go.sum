@@ -13,8 +13,8 @@ github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/gabriel-vasile/mimetype v1.4.8 h1:FfZ3gj38NjllZIeJAmMhr+qKL8Wu+nOoI3GqacKw1NM=
 github.com/gabriel-vasile/mimetype v1.4.8/go.mod h1:ByKUIKGjh1ODkGM1asKUbQZOLGrPjydw3hYPU2YU9t8=
-github.com/gin-contrib/location v1.0.2 h1:FQ3bYuxtXjv/E8unfwfqdUXPms9JR64qBEul8TOw6IA=
-github.com/gin-contrib/location v1.0.2/go.mod h1:g+5CKBkpOHL+PkrH2j6wK1u46MTOKZvBM27Vg4/IFuc=
+github.com/gin-contrib/location v1.0.3 h1:iy5FY2JsunZ73Lnq8YZsx7wkGFY1xcyRdKiRh/8Uptg=
+github.com/gin-contrib/location v1.0.3/go.mod h1:fMoqRQxX0d5ycvxzP7e5VtqfID00RPb4jMGDh3oT0pk=
 github.com/gin-contrib/logger v1.2.3 h1:aHqm4mKFBJe2icvembDdbNmPaWFDvO5zwMhejWlvprg=
 github.com/gin-contrib/logger v1.2.3/go.mod h1:6gzH8e/IglJq0a0QRV97f02dGCfd4F3pGXJL87BQRQc=
 github.com/gin-contrib/requestid v1.0.5 h1:oye4jWPpTmJHLepQWzb36lFZkKzl+gf8R0K/ButxJUY=

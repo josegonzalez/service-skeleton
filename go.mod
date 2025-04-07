@@ -5,7 +5,7 @@ go 1.23.0
 toolchain go1.24.1
 
 require (
-	github.com/gin-contrib/location v1.0.2
+	github.com/gin-contrib/location v1.0.3
 	github.com/gin-contrib/logger v1.2.3
 	github.com/gin-contrib/requestid v1.0.5
 	github.com/gin-gonic/gin v1.10.0
