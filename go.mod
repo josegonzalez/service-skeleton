@@ -8,7 +8,7 @@ require (
 	github.com/gin-contrib/location v1.0.3
 	github.com/gin-contrib/logger v1.2.5
 	github.com/gin-contrib/requestid v1.0.5
-	github.com/gin-gonic/gin v1.10.0
+	github.com/gin-gonic/gin v1.10.1
 	github.com/rs/zerolog v1.34.0
 	golang.org/x/term v0.32.0
 )
