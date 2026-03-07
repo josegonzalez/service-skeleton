@@ -1,6 +1,6 @@
 module github.com/josegonzalez/service-skeleton
 
-go 1.25.0
+go 1.26.0
 
 require (
 	github.com/gin-contrib/location v1.0.3
