@@ -5,7 +5,7 @@ go 1.26.0
 require (
 	github.com/gin-contrib/location v1.0.3
 	github.com/gin-contrib/logger v1.2.6
-	github.com/gin-contrib/requestid v1.0.5
+	github.com/gin-contrib/requestid v1.0.6
 	github.com/gin-gonic/gin v1.12.0
 	github.com/rs/zerolog v1.34.0
 	golang.org/x/term v0.41.0
@@ -41,6 +41,6 @@ require (
 	golang.org/x/crypto v0.48.0 // indirect
 	golang.org/x/net v0.51.0 // indirect
 	golang.org/x/sys v0.42.0 // indirect
-	golang.org/x/text v0.34.0 // indirect
+	golang.org/x/text v0.35.0 // indirect
 	google.golang.org/protobuf v1.36.10 // indirect
 )
