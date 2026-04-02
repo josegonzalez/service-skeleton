@@ -7,7 +7,7 @@ require (
 	github.com/gin-contrib/logger v1.2.7
 	github.com/gin-contrib/requestid v1.0.6
 	github.com/gin-gonic/gin v1.12.0
-	github.com/rs/zerolog v1.34.0
+	github.com/rs/zerolog v1.35.0
 	golang.org/x/term v0.41.0
 )
 
