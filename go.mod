@@ -4,7 +4,7 @@ go 1.26.0
 
 require (
 	github.com/gin-contrib/location v1.0.3
-	github.com/gin-contrib/logger v1.2.6
+	github.com/gin-contrib/logger v1.2.7
 	github.com/gin-contrib/requestid v1.0.6
 	github.com/gin-gonic/gin v1.12.0
 	github.com/rs/zerolog v1.34.0
