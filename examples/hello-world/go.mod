@@ -8,7 +8,7 @@ require (
 	github.com/josegonzalez/service-skeleton v0.7.0
 	github.com/mitchellh/cli v1.1.5
 	github.com/posener/complete v1.2.3
-	github.com/rs/zerolog v1.35.0
+	github.com/rs/zerolog v1.35.1
 	github.com/spf13/pflag v1.0.10
 )
 
@@ -26,8 +26,8 @@ require (
 	github.com/fatih/color v1.18.0 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.12 // indirect
 	github.com/gin-contrib/location v1.0.3 // indirect
-	github.com/gin-contrib/logger v1.2.6 // indirect
-	github.com/gin-contrib/requestid v1.0.5 // indirect
+	github.com/gin-contrib/logger v1.2.7 // indirect
+	github.com/gin-contrib/requestid v1.0.6 // indirect
 	github.com/gin-contrib/sse v1.1.0 // indirect
 	github.com/go-playground/locales v0.14.1 // indirect
 	github.com/go-playground/universal-translator v0.18.1 // indirect
@@ -59,9 +59,9 @@ require (
 	golang.org/x/arch v0.22.0 // indirect
 	golang.org/x/crypto v0.48.0 // indirect
 	golang.org/x/net v0.51.0 // indirect
-	golang.org/x/sys v0.42.0 // indirect
-	golang.org/x/term v0.41.0 // indirect
-	golang.org/x/text v0.34.0 // indirect
+	golang.org/x/sys v0.43.0 // indirect
+	golang.org/x/term v0.42.0 // indirect
+	golang.org/x/text v0.35.0 // indirect
 	google.golang.org/protobuf v1.36.10 // indirect
 )
 
