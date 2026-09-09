@@ -13,8 +13,8 @@ github.com/gabriel-vasile/mimetype v1.4.13 h1:46nXokslUBsAJE/wMsp5gtO500a4F3Nkz9
 github.com/gabriel-vasile/mimetype v1.4.13/go.mod h1:d+9Oxyo1wTzWdyVUPMmXFvp4F9tea18J8ufA774AB3s=
 github.com/gin-contrib/location v1.0.3 h1:iy5FY2JsunZ73Lnq8YZsx7wkGFY1xcyRdKiRh/8Uptg=
 github.com/gin-contrib/location v1.0.3/go.mod h1:fMoqRQxX0d5ycvxzP7e5VtqfID00RPb4jMGDh3oT0pk=
-github.com/gin-contrib/logger v1.2.7 h1:9FP+FCNiR9wwwt+sc1njijpabcaha12zay0FQRaCkz8=
-github.com/gin-contrib/logger v1.2.7/go.mod h1:BOMq6Xm5hf4vD1fXoGhSi2GcxAG2f4q6MOVDN9qm2/U=
+github.com/gin-contrib/logger v1.2.8 h1:KEp4kkfVmDkZ9tYVnOByi8AS7SA9XaYTeOBcm2SYmN0=
+github.com/gin-contrib/logger v1.2.8/go.mod h1:Ih7HXU6jylcjBHrNbuVDiMSxQf6MDLTWKrbEsf+SmeY=
 github.com/gin-contrib/requestid v1.0.7 h1:9x9SxkQd6+XXBK94KNGLXwc+BmZ8Zv9HqL2mikzdw1s=
 github.com/gin-contrib/requestid v1.0.7/go.mod h1:o9QqZbjOmEkUtWsRb7Qjbs24voqbcBrSuIp2LfEHxH0=
 github.com/gin-contrib/sse v1.1.1 h1:uGYpNwTacv5R68bSGMapo62iLTRa9l5zxGCps4hK6ko=
@@ -44,8 +44,8 @@ github.com/klauspost/cpuid/v2 v2.4.0 h1:S6Hrbc7+ywsr0r+RLapfGBHfyefhCTwEh3A0tV91
 github.com/klauspost/cpuid/v2 v2.4.0/go.mod h1:19jmZ9mjzoF//ddRSUsv0zfBTJWh3QJh9FNxZTMrGxU=
 github.com/leodido/go-urn v1.4.0 h1:WT9HwE9SGECu3lg4d/dIA+jxlljEa1/ffXKmRjqdmIQ=
 github.com/leodido/go-urn v1.4.0/go.mod h1:bvxc+MVxLKB4z00jd1z+Dvzr47oO32F/QSNjSBOlFxI=
-github.com/mattn/go-colorable v0.1.14 h1:9A9LHSqF/7dyVVX6g0U9cwm9pG3kP9gSzcuIPHPsaIE=
-github.com/mattn/go-colorable v0.1.14/go.mod h1:6LmQG8QLFO4G5z1gPvYEzlUgJ2wF+stgPZH1UqBm1s8=
+github.com/mattn/go-colorable v0.1.15 h1:+u9SLTRGnXv73cEsnsmoZBom+dMU88B2M0aDcWy0/jY=
+github.com/mattn/go-colorable v0.1.15/go.mod h1:6LmQG8QLFO4G5z1gPvYEzlUgJ2wF+stgPZH1UqBm1s8=
 github.com/mattn/go-isatty v0.0.23 h1:cYwCQTQf3HB6xUC+BtyCLZNr7IzbOmoZbmssVNzSyiQ=
 github.com/mattn/go-isatty v0.0.23/go.mod h1:nMCL3Zebbrt45jsMDgnfIwz6ydEQApk5oEI3HqDio6A=
 github.com/modern-go/concurrent v0.0.0-20180228061459-e0a39a4cb421/go.mod h1:6dJC0mAP4ikYIbvyc7fijjWJddQyLn8Ig3JB5CqoB9Q=
