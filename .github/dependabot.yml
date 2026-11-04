@@ -5,10 +5,20 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
+    groups:
+      gin:
+        patterns:
+          - "github.com/gin-gonic/*"
+          - "github.com/gin-contrib/*"
   - package-ecosystem: "gomod"
     directory: "/examples/hello-world"
     schedule:
       interval: "daily"
+    groups:
+      gin:
+        patterns:
+          - "github.com/gin-gonic/*"
+          - "github.com/gin-contrib/*"
   - package-ecosystem: github-actions
     directory: "/"
     schedule:
